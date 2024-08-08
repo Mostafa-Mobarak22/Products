@@ -1,0 +1,15 @@
+li span{
+    position: absolute;
+    top: -22px;
+    right: -27px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.shadow a{
+    text-decoration: none;
+}
+.active{
+    color: brown;
+}
